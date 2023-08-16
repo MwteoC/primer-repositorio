@@ -1,4 +1,4 @@
-# primer-repositorio
+# hola-mundo
 
 mi primer repositorio
 
@@ -6,4 +6,9 @@ Hincha de River ⚪🔴⚪, me gustan los perros 🐶 y gatos 🐱, me gusta el 
 
 Las series que veo son The Walking Dead 🧟, y One Piece 👒
 
-nuevea lines (no se que poner)
+nuevea linea (no se que poner)
+
+mas y mas lineas
+
+a?
+
